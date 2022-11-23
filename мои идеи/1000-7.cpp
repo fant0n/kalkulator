@@ -11,7 +11,6 @@ int main(void) {
 		cout << num << '-7' << endl;
 	}
 	    Sleep(30);
-	
 
 	
 
