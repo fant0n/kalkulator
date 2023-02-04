@@ -8,12 +8,12 @@ using namespace std;
 int main(char) {
 	system("chcp 1251>nul");
 	int a, b;
-	cout << "Ââåäè âòîğîå ÷èñëî"<< endl ;
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğ½ Ğ¿ĞµÑ€Ğ²Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾"<< endl ;
 	cin >> a;
-	cout << "Ââåäè âòîğîå ÷èñëî" << endl;
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ²Ñ‚Ğ¾Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾" << endl;
 	cin >> b;
 	
-	cout << "Ââåäè çíàê(+,-,/,*)" << endl;
+	cout << "Ğ’Ñ‹Ğ±ĞµÑ€ĞµÑ‚Ğµ Ğ·Ğ½Ğ°Ğº(+,-,/,*)" << endl;
 
 	string znak;
 	int otv;
@@ -50,7 +50,7 @@ int main(char) {
 
 	}
 	else {
-		cout << "Çíàê ââåäåí íåêîğåêòíî:)";
+		cout << "Ğ’Ñ‹Ğ±ĞµÑ€Ğµ Ğ´Ñ€ÑƒĞ³Ğ¾Ğ¹ Ğ·Ğ½Ğ°Ğº :)";
 
 	}
 		
